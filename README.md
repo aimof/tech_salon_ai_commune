@@ -1,0 +1,2 @@
+# tech_salon_ai_commune
+このリポジトリはTech_salon_AI_Communeのリポジトリです。参加者の方はお気軽にご参加下さい。
